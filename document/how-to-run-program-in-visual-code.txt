@@ -1,0 +1,8 @@
+tutorial:
+	https://www.youtube.com/watch?v=QpNuaIXeY2o&list=PLE1qPKuGSJaBX6vWPBS79eosFdi5TZr0s&index=2
+	
+		windown --> visual sudio installer
+		
+		c++ --> desktop development with c++
+		
+		run --> ctrl + F5
